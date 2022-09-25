@@ -65,10 +65,16 @@ https://github.com/prisma/prisma-examples/blob/latest/typescript/rest-nextjs-api
 
 npm install zod --save
 
-## 
-
 https://zenn.dev/mizchi/articles/1c35fdcc77065c02f631
 
+
+## formidableインストール
+
+npm i formidable @types/formidable --save
+
+https://zenn.dev/masumomo/articles/971424e0515c71
+
+formidableのparseがcallbackなので、同期式にならない
 
 navbar
 menu
